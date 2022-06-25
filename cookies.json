@@ -1,0 +1,29 @@
+{
+    "cookies": {
+        "browserid": "2424635558868672077",
+        "sessionid": "b5931e4de4bda0523073996c",
+        "steamCountry": "RU%7C07ee6292d556960f766e1221adf03553",
+        "steamLoginSecure": "76561198219228304%7C%7CEC9C98DC19AAB268DD061DAECC74515B4AC48E4F",
+        "steamMachineAuth76561198219228304": "592C921EA4ACE37CC797130DBF2F60A15793C0A1"
+    },
+    "headers": {
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br",
+        "accept-language": "ru,en-US;q=0.9,en;q=0.8",
+        "connection": "keep-alive",
+        "content-length": "43",
+        "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+        "host": "steamcommunity.com",
+        "origin": "https://steamcommunity.com",
+        "referer": "https://steamcommunity.com/login/home/?goto=",
+        "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"100\", \"Google Chrome\";v=\"100\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "same-origin",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36",
+        "x-requested-with": "XMLHttpRequest"
+    },
+    "user": "ענףסû ןמנגאכ ט גתובאכ"
+}

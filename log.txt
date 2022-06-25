@@ -1,0 +1,355 @@
+01-05-2022 16:07:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/USP-S%20%7C%20Whiteout%20%28Field-Tested%29 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002B2DA275BA0>, 'Connection to 193.0.203.26 timed out. (connect timeout=None)'))
+01-05-2022 16:07:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/P2000%20%7C%20Panther%20Camo%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+01-05-2022 16:07:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/G3SG1%20%7C%20Green%20Apple%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)))
+01-05-2022 16:07:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/itemordershistogram?country=RU&language=russian&currency=5&item_nameid=176262909&two_factor=0 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+01-05-2022 16:07:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/G3SG1%20%7C%20VariCamo%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+01-05-2022 16:07:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/P250%20%7C%20Black%20%26%20Tan%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+01-05-2022 16:08:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/XM1014%20%7C%20CaliCamo%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)))
+01-05-2022 16:08:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/Five-SeveN%20%7C%20Withered%20Vine%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)))
+01-05-2022 16:08:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/Galil%20AR%20%7C%20Amber%20Fade%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+01-05-2022 16:08:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/USP-S%20%7C%20Cyrex%20%28Field-Tested%29 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)))
+01-05-2022 16:08:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/itemordershistogram?country=RU&language=russian&currency=5&item_nameid=2383819&two_factor=0 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_BAD_RECORD_MAC] sslv3 alert bad record mac (_ssl.c:2548)')))
+01-05-2022 16:09:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/P250%20%7C%20Black%20%26%20Tan%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+01-05-2022 16:09:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/UMP-45%20%7C%20Houndstooth%20%28Factory%20New%29 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:997)')))
+01-05-2022 16:09:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/MP7%20%7C%20Anodized%20Navy%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+01-05-2022 16:09:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/itemordershistogram?country=RU&language=russian&currency=5&item_nameid=176262608&two_factor=0 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_BAD_RECORD_MAC] sslv3 alert bad record mac (_ssl.c:2548)')))
+01-05-2022 16:10:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/UMP-45%20%7C%20Carbon%20Fiber%20%28Factory%20New%29/render/?query=&start=0&count=10&country=RU&language=russian&currency=5 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_BAD_RECORD_MAC] sslv3 alert bad record mac (_ssl.c:2548)')))
+01-05-2022 16:10:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/Glock-18%20%7C%20Red%20Tire%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', TimeoutError(10060, 'Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера', None, 10060, None)))
+01-05-2022 16:14:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/UMP-45%20%7C%20Carbon%20Fiber%20%28Factory%20New%29/render/?query=&start=0&count=10&country=RU&language=russian&currency=5 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_BAD_RECORD_MAC] sslv3 alert bad record mac (_ssl.c:2548)')))
+01-05-2022 16:15:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/PP-Bizon%20%7C%20Brass%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+01-05-2022 16:16:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/SG%20553%20%7C%20Damascus%20Steel%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 19:32:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/PP-Bizon%20%7C%20Brass%20%28Factory%20New%29/render/?query=&start=0&count=10&country=RU&language=russian&currency=5 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 19:36:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/M4A1-S%20%7C%20VariCamo%20%28Factory%20New%29/render/?query=&start=0&count=10&country=RU&language=russian&currency=5 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+01-05-2022 19:36:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/PP-Bizon%20%7C%20Brass%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+01-05-2022 19:39:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/PP-Bizon%20%7C%20Brass%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+01-05-2022 19:41:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/P250%20%7C%20Vino%20Primo%20%28Factory%20New%29/render/?query=&start=0&count=10&country=RU&language=russian&currency=5 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+01-05-2022 19:41:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/PP-Bizon%20%7C%20Brass%20%28Factory%20New%29 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000184B06A1510>, 'Connection to 81.22.44.128 timed out. (connect timeout=None)'))
+01-05-2022 19:41:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/MAC-10%20%7C%20Silver%20%28Factory%20New%29 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000184B0630580>, 'Connection to 91.243.188.140 timed out. (connect timeout=None)'))
+01-05-2022 19:42:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/Galil%20AR%20%7C%20VariCamo%20%28Factory%20New%29 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000184C2784C10>, 'Connection to 81.22.44.202 timed out. (connect timeout=None)'))
+01-05-2022 19:42:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/PP-Bizon%20%7C%20Candy%20Apple%20%28Factory%20New%29/render/?query=&start=0&count=10&country=RU&language=russian&currency=5 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000184B03B5D50>, 'Connection to 91.243.188.191 timed out. (connect timeout=None)'))
+01-05-2022 19:43:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/PP-Bizon%20%7C%20Candy%20Apple%20%28Factory%20New%29 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000184B41DA440>, 'Connection to 91.243.188.241 timed out. (connect timeout=None)'))
+01-05-2022 19:43:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/MP7%20%7C%20Fade%20%28Factory%20New%29/render/?query=&start=0&count=10&country=RU&language=russian&currency=5 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000184B06D2B60>, 'Connection to 81.22.44.177 timed out. (connect timeout=None)'))
+01-05-2022 19:43:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/Desert%20Eagle%20%7C%20Urban%20Rubble%20%28Factory%20New%29 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000184B040D2A0>, 'Connection to 81.22.44.253 timed out. (connect timeout=None)'))
+01-05-2022 19:43:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/P90%20%7C%20Ash%20Wood%20%28Factory%20New%29 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000184B6497D60>, 'Connection to 91.243.188.137 timed out. (connect timeout=None)'))
+01-05-2022 19:43:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/MAG-7%20%7C%20Metallic%20DDPAT%20%28Factory%20New%29 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000184B41DBB50>, 'Connection to 81.22.44.242 timed out. (connect timeout=None)'))
+01-05-2022 19:43:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/Tec-9%20%7C%20VariCamo%20%28Factory%20New%29 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000184B060F790>, 'Connection to 81.22.44.109 timed out. (connect timeout=None)'))
+01-05-2022 19:43:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/Five-SeveN%20%7C%20Silver%20Quartz%20%28Factory%20New%29 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000184B651E620>, 'Connection to 81.22.44.201 timed out. (connect timeout=None)'))
+01-05-2022 19:43:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/MP7%20%7C%20Fade%20%28Factory%20New%29 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000184B41BE770>, 'Connection to 81.22.44.4 timed out. (connect timeout=None)'))
+01-05-2022 19:43:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/MAG-7%20%7C%20Metallic%20DDPAT%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+01-05-2022 19:43:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/PP-Bizon%20%7C%20Candy%20Apple%20%28Factory%20New%29 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000184B041EE30>, 'Connection to 81.22.44.107 timed out. (connect timeout=None)'))
+01-05-2022 19:44:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/SG%20553%20%7C%20Damascus%20Steel%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 19:44:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/FAMAS%20%7C%20Teardown%20%28Factory%20New%29 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000184B4152DA0>, 'Connection to 81.22.44.50 timed out. (connect timeout=None)'))
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  empty range for randrange() (0, 0, 0)
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  empty range for randrange() (0, 0, 0)
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  empty range for randrange() (0, 0, 0)
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:18:  Более половины прокси у бота испортились!
+01-05-2022 20:25:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/Tec-9%20%7C%20VariCamo%20%28Factory%20New%29 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002577791D9C0>, 'Connection to 194.63.143.249 timed out. (connect timeout=None)'))
+01-05-2022 20:30:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/Tec-9%20%7C%20VariCamo%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 20:32:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/UMP-45%20%7C%20Carbon%20Fiber%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:36:  Более половины прокси у бота испортились!
+01-05-2022 21:36:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/AK-47%20%7C%20Emerald%20Pinstripe%20%28Factory%20New%29/render/?query=&start=0&count=10&country=RU&language=russian&currency=5 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:36:  Более половины прокси у бота испортились!
+01-05-2022 21:36:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/AK-47%20%7C%20Emerald%20Pinstripe%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:36:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/AK-47%20%7C%20Emerald%20Pinstripe%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:36:  Более половины прокси у бота испортились!
+01-05-2022 21:37:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/AK-47%20%7C%20Emerald%20Pinstripe%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:37:  Более половины прокси у бота испортились!
+01-05-2022 21:37:  Более половины прокси у бота испортились!
+01-05-2022 21:37:  Более половины прокси у бота испортились!
+01-05-2022 21:37:  Более половины прокси у бота испортились!
+01-05-2022 21:37:  Более половины прокси у бота испортились!
+01-05-2022 21:38:  Более половины прокси у бота испортились!
+01-05-2022 21:38:  Более половины прокси у бота испортились!
+01-05-2022 21:38:  Более половины прокси у бота испортились!
+01-05-2022 21:38:  Более половины прокси у бота испортились!
+01-05-2022 21:38:  Более половины прокси у бота испортились!
+01-05-2022 21:38:  Более половины прокси у бота испортились!
+01-05-2022 21:38:  Более половины прокси у бота испортились!
+01-05-2022 21:38:  Более половины прокси у бота испортились!
+01-05-2022 21:38:  Более половины прокси у бота испортились!
+01-05-2022 21:38:  Более половины прокси у бота испортились!
+01-05-2022 21:42:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/AK-47%20%7C%20Emerald%20Pinstripe%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:50:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/AK-47%20%7C%20Emerald%20Pinstripe%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:55:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/Dual%20Berettas%20%7C%20Drift%20Wood%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:55:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/Dual%20Berettas%20%7C%20Drift%20Wood%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:55:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/Sawed-Off%20%7C%20Full%20Stop%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:55:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/XM1014%20%7C%20Blue%20Steel%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:55:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/P90%20%7C%20Tiger%20Pit%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:55:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/SG%20553%20%7C%20Anodized%20Navy%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:55:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/P90%20%7C%20Tiger%20Pit%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:55:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/XM1014%20%7C%20Blue%20Steel%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:55:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/MP7%20%7C%20Anodized%20Navy%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+01-05-2022 21:55:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/StatTrak%E2%84%A2%20Galil%20AR%20%7C%20Eco%20%28Field-Tested%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:56:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/XM1014%20%7C%20CaliCamo%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:56:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/Sawed-Off%20%7C%20Full%20Stop%20%28Factory%20New%29/render/?query=&start=0&count=10&country=RU&language=russian&currency=5 (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+01-05-2022 21:56:  list index out of range
+01-05-2022 21:56:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/Nova%20%7C%20Candy%20Apple%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', TimeoutError(10060, 'Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера', None, 10060, None)))
+01-05-2022 21:56:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/P90%20%7C%20Teardown%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:56:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/Nova%20%7C%20Candy%20Apple%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:56:  list index out of range
+01-05-2022 21:56:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/Sawed-Off%20%7C%20Full%20Stop%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:56:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/Nova%20%7C%20Candy%20Apple%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', TimeoutError(10060, 'Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера', None, 10060, None)))
+01-05-2022 21:56:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/Sawed-Off%20%7C%20Full%20Stop%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:56:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/StatTrak%E2%84%A2%20Galil%20AR%20%7C%20Eco%20%28Field-Tested%29 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:997)')))
+01-05-2022 21:56:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/StatTrak%E2%84%A2%20Galil%20AR%20%7C%20Eco%20%28Field-Tested%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:56:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/StatTrak%E2%84%A2%20Galil%20AR%20%7C%20Eco%20%28Field-Tested%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:56:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/P90%20%7C%20Teardown%20%28Factory%20New%29/render/?query=&start=0&count=10&country=RU&language=russian&currency=5 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_BAD_RECORD_MAC] sslv3 alert bad record mac (_ssl.c:2548)')))
+01-05-2022 21:56:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/P90%20%7C%20Teardown%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:56:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/StatTrak%E2%84%A2%20Galil%20AR%20%7C%20Eco%20%28Field-Tested%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+01-05-2022 21:57:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/P90%20%7C%20Verdant%20Growth%20%28Factory%20New%29 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:997)')))
+01-05-2022 21:57:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/Nova%20%7C%20Candy%20Apple%20%28Factory%20New%29 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:997)')))
+01-05-2022 21:57:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/Nova%20%7C%20Candy%20Apple%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
+03-05-2022 22:06:  spec error
+03-05-2022 19:08:  HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/listings/730/FAMAS%20%7C%20Meltdown%20%28Factory%20New%29 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
